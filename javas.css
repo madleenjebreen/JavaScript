@@ -1,0 +1,43 @@
+body{
+}
+.b1{
+  border-bottom: 4px solid red;
+  width: 50%;
+  height: 130px;
+  border-left: 4px solid #000;
+  border-right: 4px solid #000;
+  border-top: 4px solid red;
+
+
+}
+#mm{
+
+}
+
+.b2{
+  border-bottom: 4px solid red;
+  width: 50%;
+  height: 70px;
+  border-left: 4px solid #000;
+  border-right: 4px solid #000;
+  border-top: 4px solid red;
+}
+.b3{
+  border-bottom: 4px solid red;
+  width: 50%;
+  height: 70px;
+  border-left: 4px solid #000;
+  border-right: 4px solid #000;
+  border-top: 4px solid red;
+
+}
+.b4{
+  border-bottom: 4px solid red;
+  width: 50%;
+  height: 130px;
+  border-left: 4px solid #000;
+  border-right: 4px solid #000;
+  border-top: 4px solid red;
+
+
+}
